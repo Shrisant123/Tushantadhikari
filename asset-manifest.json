@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tushantadhikari/static/css/main.3242254f.css",
+    "main.js": "/Tushantadhikari/static/js/main.46971de4.js",
+    "static/js/787.59bd2308.chunk.js": "/Tushantadhikari/static/js/787.59bd2308.chunk.js",
+    "static/media/tushant.jpg": "/Tushantadhikari/static/media/tushant.00b4e543cc30778726c4.jpg",
+    "static/media/pushup2.jpg": "/Tushantadhikari/static/media/pushup2.7f58d391f9ef7e16b3db.jpg",
+    "index.html": "/Tushantadhikari/index.html",
+    "main.3242254f.css.map": "/Tushantadhikari/static/css/main.3242254f.css.map",
+    "main.46971de4.js.map": "/Tushantadhikari/static/js/main.46971de4.js.map",
+    "787.59bd2308.chunk.js.map": "/Tushantadhikari/static/js/787.59bd2308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3242254f.css",
+    "static/js/main.46971de4.js"
+  ]
+}
