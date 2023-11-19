@@ -1,0 +1,34 @@
+.bottom{
+    height: 12vh;
+    width: 100vw;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+}
+
+.p{
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1vw;
+    font-family: sans-serif;
+    padding: 1px;
+}
+
+@media only screen and (max-width: 500px){
+	.bottom{
+		height: 18vh;
+	}
+	
+	.p{
+		font-size: 3vw;
+	}
+	
+	.all_par{
+		position: absolute;
+		top: 12vw;
+		left: 32vw;
+	}
+}

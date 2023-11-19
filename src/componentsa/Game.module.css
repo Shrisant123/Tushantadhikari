@@ -1,0 +1,51 @@
+.h1{
+	text-align: center;
+}
+
+.p{
+	margin-left: 12vw;
+}
+
+.all{
+	margin-top: 5vw;
+}
+
+.imgs{
+	height: 50vw;
+	width: 60vw;
+	object-fit: contain;
+	margin-left: 18vw;
+}
+
+@media only screen and (max-width: 500px){
+	.p{
+		font-size: 3vw;
+		font-family: arial;
+		text-align: justify;
+	}
+	
+	.h1{
+		color: #32a852;
+		margin-top: 10vw;
+		animation: Changecolor 4s 1s infinite;
+	}
+	
+	@keyframes Changecolor{
+		0%{
+			color: #06571c;
+		}
+		25%{
+			color: #1a95ad;
+		}
+		50%{
+			color: #c94718;
+		}
+		75%{
+			color: #4a13ba;
+		}
+		100%{
+			color: #10abc9;
+		}
+	}
+}
+

@@ -1,0 +1,25 @@
+.forms{
+	position: absolute;
+	top: 25vw;
+	left: 35vw;
+}
+
+.input{
+	margin: 2vw;
+}
+
+.h1{
+	color: purple;
+}
+
+@media only screen and (max-width: 500px){
+	.forms{
+		position:absolute;
+		top: 80vw;
+		border: 2px solid black;
+		border-radius: 3vw;
+		left : 10vw;
+	}
+	
+}
+

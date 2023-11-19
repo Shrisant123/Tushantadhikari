@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.intro{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60vw;
+    position: absolute;
+    top: 18vw;
+    left: 3vw;
+    background: gainsboro;
+    width: 45vw;
+    text-align: center;
+    border-top-right-radius: 5vw;
+}
+
+.h1{
+    font-size: 3vw;
+    font-family: sans-serif;
+    color: rgb(226, 101, 101);
+}
+
+.p{
+    font-size: 1.5vw;
+    color:black;
+    font-family: sans-serif;
+}
+
+
+.maincon{
+    height: 70vh;
+    background-image: url('tushant.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+@media only screen and (max-width: 500px){
+	.intro{
+		top: 100vw;
+	}
+}
